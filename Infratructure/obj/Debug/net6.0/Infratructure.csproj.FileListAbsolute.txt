@@ -1,0 +1,17 @@
+D:\C#\core\TodoList\Infratructure\bin\Debug\net6.0\Infratructure.deps.json
+D:\C#\core\TodoList\Infratructure\bin\Debug\net6.0\Infratructure.dll
+D:\C#\core\TodoList\Infratructure\bin\Debug\net6.0\Infratructure.pdb
+D:\C#\core\TodoList\Infratructure\bin\Debug\net6.0\Entities.dll
+D:\C#\core\TodoList\Infratructure\bin\Debug\net6.0\UseCases.dll
+D:\C#\core\TodoList\Infratructure\bin\Debug\net6.0\Entities.pdb
+D:\C#\core\TodoList\Infratructure\bin\Debug\net6.0\UseCases.pdb
+D:\C#\core\TodoList\Infratructure\obj\Debug\net6.0\Infratructure.csproj.AssemblyReference.cache
+D:\C#\core\TodoList\Infratructure\obj\Debug\net6.0\Infratructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\core\TodoList\Infratructure\obj\Debug\net6.0\Infratructure.AssemblyInfoInputs.cache
+D:\C#\core\TodoList\Infratructure\obj\Debug\net6.0\Infratructure.AssemblyInfo.cs
+D:\C#\core\TodoList\Infratructure\obj\Debug\net6.0\Infratructure.csproj.CoreCompileInputs.cache
+D:\C#\core\TodoList\Infratructure\obj\Debug\net6.0\Infratru.4D9A8053.Up2Date
+D:\C#\core\TodoList\Infratructure\obj\Debug\net6.0\Infratructure.dll
+D:\C#\core\TodoList\Infratructure\obj\Debug\net6.0\refint\Infratructure.dll
+D:\C#\core\TodoList\Infratructure\obj\Debug\net6.0\Infratructure.pdb
+D:\C#\core\TodoList\Infratructure\obj\Debug\net6.0\ref\Infratructure.dll

@@ -1,0 +1,18 @@
+﻿@model TodoList.Models.TodoListViewModel
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Todo</h1>
+    <ul>
+        @foreach(var item in Model.items)
+        {
+            <li>@item.Text</li>
+        }
+    </ul>
+
+    <a class="btn btn-primary" href="/home/Add">Add</a>
+
+</div>

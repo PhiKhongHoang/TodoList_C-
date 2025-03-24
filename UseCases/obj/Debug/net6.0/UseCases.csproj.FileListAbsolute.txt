@@ -1,0 +1,15 @@
+D:\C#\core\TodoList\UseCases\bin\Debug\net6.0\UseCases.deps.json
+D:\C#\core\TodoList\UseCases\bin\Debug\net6.0\UseCases.dll
+D:\C#\core\TodoList\UseCases\bin\Debug\net6.0\UseCases.pdb
+D:\C#\core\TodoList\UseCases\bin\Debug\net6.0\Entities.dll
+D:\C#\core\TodoList\UseCases\bin\Debug\net6.0\Entities.pdb
+D:\C#\core\TodoList\UseCases\obj\Debug\net6.0\UseCases.csproj.AssemblyReference.cache
+D:\C#\core\TodoList\UseCases\obj\Debug\net6.0\UseCases.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\core\TodoList\UseCases\obj\Debug\net6.0\UseCases.AssemblyInfoInputs.cache
+D:\C#\core\TodoList\UseCases\obj\Debug\net6.0\UseCases.AssemblyInfo.cs
+D:\C#\core\TodoList\UseCases\obj\Debug\net6.0\UseCases.csproj.CoreCompileInputs.cache
+D:\C#\core\TodoList\UseCases\obj\Debug\net6.0\UseCases.csproj.Up2Date
+D:\C#\core\TodoList\UseCases\obj\Debug\net6.0\UseCases.dll
+D:\C#\core\TodoList\UseCases\obj\Debug\net6.0\refint\UseCases.dll
+D:\C#\core\TodoList\UseCases\obj\Debug\net6.0\UseCases.pdb
+D:\C#\core\TodoList\UseCases\obj\Debug\net6.0\ref\UseCases.dll
